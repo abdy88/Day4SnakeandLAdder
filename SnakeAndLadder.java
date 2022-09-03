@@ -143,8 +143,8 @@ public class SnakeAndLadder {
 								 
 							 }
 							 
-//						 System.out.println("position after die throw is "  + position);
-//						 System.out.println("total count of throw = " + countOfThrow );
+						 System.out.println("position after die throw is "  + position);
+						 System.out.println("total count of throw = " + countOfThrow );
 
 						 }
 
