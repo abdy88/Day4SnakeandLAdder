@@ -12,6 +12,8 @@ public class SnakeAndLadder {
 	
 	 
 	Firstthrow(); 
+	
+	System.out.println("Ensuring player gets to exact winning position 100");
 	oneplayersimulator();
 	 
 	}
@@ -129,8 +131,8 @@ public class SnakeAndLadder {
 							 if (position==100)
 							 {
 							 System.out.println("Player reached position 100 and player wins !! ");
-							 System.out.println("position after die throw is "  + position);
-							 System.out.println("total count of throw = " + countOfThrow );
+//							 System.out.println("position after die throw is "  + position);
+//							 System.out.println("total count of throw = " + countOfThrow );
 
 							 break;
 							 }
